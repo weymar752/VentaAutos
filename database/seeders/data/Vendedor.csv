@@ -1,0 +1,13 @@
+﻿ID_Vendedor;Nombre;Apellido;fecha_nacimiento;Id_Sede;Foto;Email;Password
+1;Guillermina;González;1991-05-30;1;https://www.familias.com/wp-content/uploads/2015/08/featuredImageId59050-700x547.jpg;guillermina.gonzalez@example.com;vendedor123
+2;Adriana;Bossio;1991-09-22;1;https://lhh.pe/site/wp-content/uploads/2015/07/www.mujeresdeempresa.com_.jpg;adriana.bossio@example.com;vendedor123
+3;Laura;Alonso;1986-06-30;4;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1vTMtFY8Wi1fc2l7H6JLsYZ3D0HgERyWhdBVOhSYTPTVDJD2Q;laura.alonso@example.com;vendedor123
+4;Sebastián;Sánchez;1990-02-05;2;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShnvkizXA1-fba8rj1R58dOfh6BLQHOhbzNrCuX0fh-HSYty97;sebastian.sanchez@example.com;vendedor123
+5;Josefina;Pérez;1985-03-09;3;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqxWeb-HfClQWBgmSoyJG5Mmr3xMfpDD6jx1d97C907iwC-5mPQ;josefina.perez@example.com;vendedor123
+6;Gastón;García;1989-12-21;2;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSwrUmOgN9Y05urq5jq-wZlk369n3Wfcir3sZzksNXDgaOjJR;gaston.garcia@example.com;vendedor123
+7;Armando;Suárez;1987-10-11;2;https://www.rhpaenews.com/wp-content/uploads/2017/12/perfil-ejecutivo-sxxi.jpg;armando.suarez@example.com;vendedor123
+8;Nicolás;Mangia;1991-06-10;1;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlUHdiD2YRjNb9S7ZxgP3DOfCVP1U2K7QSz9xc6I5KCHF_iTFc;nicolas.mangia@example.com;vendedor123
+9;Carlos;Gutiérrez;1985-10-31;4;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvH8UuHqzdDyyUg8hZdXZVN90p-K_kUwR1uZCP-_m95R9Rzjsg2A;carlos.gutierrez@example.com;vendedor123
+10;Norma;Domínguez;1986-07-26;3;https://image.freepik.com/foto-gratis/ejecutiva-sonriente-traje-negro-brazos-cruzados_1139-273.jpg;norma.dominguez@example.com;vendedor123
+11;Julio;Zapatero;1989-08-25;3;https://taniabenitocoach.com/wp-content/uploads/blog.jpg;julio.zapatero@example.com;vendedor123
+12;Matias;Pozo;1989-02-05;1;http://www.ucongreso.edu.ar/wp-content/uploads/2016/09/profe.jpg;matias.pozo@example.com;vendedor123
